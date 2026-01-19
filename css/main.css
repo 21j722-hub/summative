@@ -66,3 +66,5 @@ table td {border: 1px solid black; border-collapse: collapse;padding: 30px ; wid
 .grid-container .box-1 { grid-column:span 6;}
 .grid-container .box-2 { grid-column:span 3;}
 .grid-container .box-3 { grid-column:span 3;}
+#reflection p {margin-bottom: 50px;}
+#response{color:red; margin-bottom: 15px;}
